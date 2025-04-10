@@ -1,0 +1,21 @@
+Continent,Region,DeviceType,ActivityMonitored,Frequency,DataUsagePurpose,Demographic,EstimatedCostUSD,DeviceModel
+Africa,Sub-Saharan Africa,Smartphone,Steps,Daily,Fitness Tracking,Youth (18-24),150,Samsung Galaxy A13
+Africa,Sub-Saharan Africa,Smartphone,Symptoms,Daily,Health Condition Management,Adults with Chronic Diseases,150,Samsung Galaxy A13
+Africa,East Africa,Wearable Fitness Tracker,Heart Rate,Continuous,General Wellness,Young Women,50,Xiaomi Mi Band 7
+Africa,East Africa,Wearable Fitness Tracker,Sleep Patterns,Daily,Sleep Quality Improvement,General Population,50,Xiaomi Mi Band 7
+Africa,South Africa,Smartwatch,Physical Activity,Weekly,Fitness Motivation,Millennials,200,Apple Watch SE
+Africa,South Africa,Smartwatch,Heart Rate,As Needed,Cardiac Health Monitoring,Adults with Cardiac Concerns,200,Apple Watch SE
+Africa,Nigeria,mHealth App on Smartphone,Medication Adherence,Daily,Treatment Management,Patients with Specific Conditions,150,Samsung Galaxy A13
+Africa,Nigeria,mHealth App on Smartphone,General Health Info,Weekly,Health Awareness,General Population,150,Samsung Galaxy A13
+Africa,Ghana,Basic Mobile Phone,Activity Levels (Informal Tracking),Daily,Work-Related Health,Community Health Workers,20,Nokia 105
+Africa,Ghana,Basic Mobile Phone,Communication about Health,Daily,Healthcare Delivery,Community Health Workers,20,Nokia 105
+Asia,Southeast Asia,Smartphone,Steps,Daily,Fitness Tracking,Youth (18-24),150,Xiaomi Redmi Note 11
+Asia,East Asia,Smartwatch,Heart Rate,Continuous,Cardiac Health Monitoring,Older Adults,250,Samsung Galaxy Watch 5
+Europe,Western Europe,Smartwatch,Sleep Patterns,Daily,Sleep Quality Improvement,Millennials,300,Apple Watch Series 8
+Europe,Eastern Europe,Wearable Fitness Tracker,Physical Activity,Weekly,Fitness Motivation,Young Adults,80,Fitbit Inspire 3
+North America,USA,Smartphone,Symptoms,As Needed,Health Condition Management,Adults with Chronic Diseases,200,iPhone SE
+North America,Canada,Wearable Fitness Tracker,Steps,Daily,General Wellness,Middle-aged Adults,100,Garmin Vivosmart 5
+South America,Brazil,mHealth App on Smartphone,Medication Adherence,Daily,Treatment Management,Patients with Chronic Conditions,180,Motorola Moto G Power
+South America,Argentina,Basic Mobile Phone,Communication about Health,Daily,Healthcare Delivery,Community Health Workers,30,Alcatel Go Flip
+Oceania,Australia,Smartwatch,Physical Activity,Daily,Fitness Tracking,Young Professionals,350,Apple Watch SE
+Oceania,New Zealand,Smartphone,General Health Info,Weekly,Health Awareness,General Population,220,Samsung Galaxy A54
