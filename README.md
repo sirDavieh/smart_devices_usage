@@ -43,4 +43,4 @@ The analysis includes:
 - `README.md`: Project summary and key findings
 
 ## ✍️ Author
-Generated using ChatGPT and Python data analysis tools.
+Generated using multiple data manipulation tols like excel, SQL and Python data analysis tools.
